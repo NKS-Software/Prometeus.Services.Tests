@@ -2,9 +2,9 @@
 using Prometeus.Core.Data.Repositories;
 using Prometeus.Core.Generators;
 using Prometeus.Core.Utils;
+using Prometeus.Core.Models;
 using Prometeus.Services.Models.DTOs;
 using Prometeus.Services.Models.Requests;
-using Prometeus.Services.Models.Responses;
 using Prometeus.Services.Tests.Utils;
 
 namespace Prometeus.Services.Tests;
